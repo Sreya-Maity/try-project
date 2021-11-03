@@ -1,0 +1,21 @@
+@media only screen and (max-width: 400px){
+	
+	.black-box{
+		width: 360px;
+	}
+	.white-box{
+		width: 360px;
+		top: 40px;
+		padding: 20px;
+	}
+	.latest-style{
+		margin-right: 10px;
+	}
+	.older-style{
+		margin-left: 10px;
+	}
+	.responsive-style{
+	margin-left: 15px;
+	margin-right: 15px;
+	}
+}

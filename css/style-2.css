@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Yomogi&display=swap');
+/*---white-box-text---*/
+@import url('https://fonts.googleapis.com/css2?family=Yomogi&display=swap');
+/*---digit---*/
+
+.bg-white{
+	background-color: white;
+}
+.header-bar{
+	font-size: 0.8rem;
+	font-family: sans;
+}
+.nav-item{
+	margin: 7px;
+	padding-right: 15px;
+	border-right: 1px solid;
+	border-color: black;
+}
+.navbar-pad{
+	padding-bottom: 150px;
+}
+.bg-ass{
+	background-color: #E2E2E2;;
+}
+.free-css{
+	font-size: 4rem;
+	font-family: sans;
+	color: black;
+	margin: 0;
+}
+.para-1rem{
+	font-size: 0.9rem;
+	font-family: sans;
+	margin: 0;
+	font-weight: bold;
+}
+.img-box-1{
+	height: 60px;
+	width: 100%;
+	margin-top: 30px;
+	float: right;
+}
+.black-box{
+	width: 1075px;
+	position: absolute;
+	height: auto;
+	background-color: #333333;
+	color: white;
+	border-radius: 8px 8px 0 0;
+	margin-top: -115px;
+}
+.black-bar-style{
+	font-family: sans;
+	font-weight: normal;
+	font-size: 1.3rem;
+}
+.white-box{
+	width: 1075px;
+	height: auto;
+	background-color: white;
+	position: absolute;
+	padding: 50px;
+	top: -52px;
+}
+.img-box-2{
+	width: 100%;
+	height: auto;
+}
+.gray-box{
+	background-color: #F0F0F0; 
+	height: 24px; 
+	padding-left: 0;
+	margin-top: 175px;
+}
+.white-box-text{
+	background-color: white;
+	color: #666666;
+	padding-left: 10px;
+	font-family: 'Yomogi', cursive;
+	font-weight: bolder;
+}
+.latest-style{
+	font-family: sans; 
+	color: #878787;
+	margin-right: 170px;
+}
+.digit{
+	color: #878787;
+	font-family: 'Yomogi', cursive;
+	border-left: 1px solid;
+	border-color: #878787;
+	padding-left: 5px;
+	padding-right: 5px;
+	font-weight: bold;
+}
+.older-style{
+	font-family: sans; 
+	color: #878787;
+	margin-left: 170px;
+}
+.responsive-style{
+	margin-left: 0;
+	margin-right: 0;
+}
+.diagoona-box{
+	width: 100%;
+	height: auto;
+}
+.hov-box-pink{
+	border: 1px solid #D6D6D6;
+	padding: 5px;
+	position: relative;
+}
+.hov-box-pink:hover{
+	border: 1px solid #00B2D8;
+	background-color: #b946ad7a;
+    position: absolute;
+}

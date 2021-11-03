@@ -1,0 +1,51 @@
+@media only screen and (max-width: 400px){
+	.res{
+		padding-left: 130px;
+	}
+	.pos{
+		left: 226px;
+		top: 0;
+	}
+	.pos-2{
+		margin-left: 0;
+	}
+	.card-1{
+		margin-left: 15px;
+	}
+	.custom-card-1{
+		margin-left: 15px;
+	}
+	.pad-top{
+		padding-top: 60px;
+	}
+	.marge{
+		margin-left: 60px;
+	}
+	.box-1{
+		height: 800px;
+	}
+	.heading{
+		font-size: 2rem;
+	}
+	.shade-box{
+		height: 600px;
+	}
+	.head-1{
+		font-size: 1.5rem;
+	}
+	.fa-caret-down{
+    margin-top: 234px;
+    margin-left: 112px;
+	}
+	.img-fluid{
+		margin-left: 15px;
+	}
+	.box-hov-2{
+		width: 370px;
+		height: 370px;
+		margin-top: -370px;
+	}
+	.card-hov{
+		width: 370px;
+	}
+}
